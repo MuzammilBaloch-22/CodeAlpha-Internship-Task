@@ -78,7 +78,7 @@ Since this repository contains multiple independent projects, please navigate to
 
 <div align="left">
     
-**Muzammil Ahmed** *Passionate AI & Web Developer*
+**Muzammil Ahmed** *Passionate AI & Chatbot Developer*
 
 * 📧 **Email:** [muzambaloch22gmail.com](mailto:muzambaloch22gmail.com)
 * 🔗 **LinkedIn:** [Muzammil Ahmed](https://www.linkedin.com/in/muzammil-ahmed-0902612a5/)
