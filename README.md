@@ -73,20 +73,23 @@ Since this repository contains multiple independent projects, please navigate to
     ```
 
 ---
+## 👨‍💻 Developer Information
 
-## 👨‍💻 Author
+<table border="0">
+  <tr>
+    <td width="100px">
+      <img src="https://github.com/MuzammilBaloch-22.png" width="100px" style="border-radius:50%;" />
+    </td>
+    <td>
+      <strong>Muzammil Ahmed</strong><br />
+      Full Stack Developer & AI Chatbot Engineer<br />
+      📧 <a href="mailto:muzambaloch22@gmail.com">muzambaloch22@gmail.com</a><br />
+      🔗 <a href="https://www.linkedin.com/in/muzammil-ahmed-0902612a5/">LinkedIn Profile</a><br />
+      🐙 <a href="https://github.com/MuzammilBaloch-22">GitHub Portfolio</a>
+    </td>
+  </tr>
+</table>
 
-<div align="left">
-    
-**Muzammil Ahmed** *Passionate AI & Chatbot Developer*
-
-* 📧 **Email:** [muzambaloch22gmail.com](mailto:muzambaloch22gmail.com)
-* 🔗 **LinkedIn:** [Muzammil Ahmed](https://www.linkedin.com/in/muzammil-ahmed-0902612a5/)
-* 🐙 **GitHub:** [@MuzammilBaloch-22](https://github.com/MuzammilBaloch-22)
-
-</div>
-
----
 
 <div align="center">
   <i>Developed with ❤️ during the CodeAlpha Internship Program.</i>
